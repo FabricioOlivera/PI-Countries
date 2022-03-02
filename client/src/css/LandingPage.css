@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  background-position: center center;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+}
+
+.titleLanding {
+  color: rgba(255, 255, 255, 0.897);
+  margin-top: 10px;
+  font-size: 50px;
+  padding-bottom: 6px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-radius: 1rem;
+  font-style: italic;
+  
+}
+
+.buttonEnter {
+  background-color: transparent;
+  border: 2px solid #f4f7f8;
+  border-radius: 5px;
+  width: 100px;
+  height: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #f4f7f8;
+  font-size: 22px;
+  font-style: italic;
+  cursor: pointer;
+  transition: 0.9s;
+  text-decoration: none;
+}
+
+.buttonEnter:hover {
+  background-color: #222121;
+  color: white;
+}
+

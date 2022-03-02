@@ -1,0 +1,39 @@
+.order{
+
+    display: inline-block;
+    padding: 0;
+    margin: 10px;
+
+}
+
+.order li {display: inline;
+    font-size: 13px;}
+
+
+
+.order{
+background-color: hsla(0, 0%, 1%, 0.281);
+border: .1rem solid rgba(124, 124, 124, 0.493);
+border-radius: 1rem;
+}
+
+.numberPage{
+    border: none;
+    background-color: inherit;
+    padding: 10px 10px;
+    font-size: 8px;
+    cursor: pointer;
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    transition: 0.9s;
+}
+.numberPage:hover{
+    background-color: #363434;
+    color: white;
+    border-radius: 1rem;
+}
+
+.numberPage:focus{
+    background-color: #363434;
+ }

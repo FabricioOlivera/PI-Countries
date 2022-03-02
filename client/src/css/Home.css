@@ -1,0 +1,42 @@
+.containerHome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    background-attachment: fixed;
+    background-size:cover; 
+}
+
+
+.cards {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.selectFilter, .buttonClean{
+    background-color: hsla(0, 0%, 1%, 0.548);
+    border: .1rem solid rgba(124, 124, 124, 0.493);
+    text-shadow: center;
+    color: #f4f7f8;
+    font-size: 13px;
+    backdrop-filter: blur(0.2rem);
+    cursor: pointer;
+    transition: 0.9s;
+    transform: translateY(-3%);
+    margin: 4px;
+}
+.selectFilter:hover{
+    background-color:#363434;
+}
+
+.buttonClean{
+    font-size: 13px;
+}
+
+.buttonClean:hover{
+    background-color: #363434;
+}
