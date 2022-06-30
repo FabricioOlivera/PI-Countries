@@ -17,6 +17,10 @@ búsqueda
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158902871-95403533-0896-451c-ba10-30d31a54f502.png" alt="Landing Page" ></a>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158903702-178139f2-d049-4f84-a73b-15134db19837.png" alt="Home and paginated "></a>
   <a><img width="45%" src="https://user-images.githubusercontent.com/78769625/158904096-e67088aa-d31d-4229-acd7-8f8a93afb507.png" alt="Filter by continent"></a>
+  <p>Video:</p>
+  <p>
+    https://www.linkedin.com/feed/update/urn:li:activity:6910047377395449856/
+  </p>
  
 </div>
 
